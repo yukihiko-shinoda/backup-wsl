@@ -1,0 +1,6 @@
+# List top directory names that includes large size files.
+large_file_directory_names:
+  - downloaders
+  - video-editors
+# Put windows local directory absolute path that is synced with cloud storage.
+cloud: D:\Users\user\workspace
